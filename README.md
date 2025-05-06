@@ -10,6 +10,7 @@
 
 ## After Playwright set up is done
 4. **congifure .gitignore** to exclude unnecessary files
+5. **Proceed to write the test**
 
 
 ## Steps on how to set up new Codespace

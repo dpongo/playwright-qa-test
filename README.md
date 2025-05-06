@@ -4,14 +4,12 @@
 
 1. **Fork this repository** to your own GitHub account.
 2. **Create a new Codespace** from your forked repository. (Steps are clearly provided on bottom of this page.)
-3. **Install Playwright/Test** version 1.38.0 explicitly.
+3. **Install Playwright/Test** latest version explicitly.
 3. **Install Playwright** to get the brower binaries for your test.
-3. **Verify Playwright Version** to show version 1.38.0.
 
 ## After Playwright set up is done
 4. **congifure .gitignore** to exclude unnecessary files
 5. **Proceed to write the test**
-
 
 ## Steps on how to set up new Codespace
 
